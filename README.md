@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @maryamseraj
-- 👀 I’m interested in Computer Science, with an emphasis in Computational linguistics and Computational Finance using Artificial intelligence (AI) methods
-- 🌱 I’m currently developing my knowledge of AI and Natural Language Processing (NLP) as well as coding using C# and Python
+- 👀 I’m interested in Data Science and Finance, with an emphasis in Computational Finance using Artificial intelligence (AI) methods
+- 🌱 I’m currently developing my knowledge of statistical programming and data analysis using Python
 - 💞️ I’m looking to collaborate on any project related to the things mentioned above
 - 📫 LinkedIn: linkedin.com/in/maryamseraj
-- 📱 Instagram: maryserajx
 
 <!---
 maryamxseraj/maryamxseraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
